@@ -12,9 +12,10 @@ Setting Introvert up is really simple!
 Step 1 : Open it. This creates the necessary files for its usage.  
 Step 2 : Close the program and find the configuration files. If alt + f4 doesnt work, try killing it or closing it through the app dock. 
 The configuration files are located at ~/.local/share/godot/app_userdata/INTROvert  
-Step 3 : Configure the Configuration files. There are two configuration files : destination.txt and video.txt  
-Firstly, insert the path to the executable in destination.txt, staring from / (root)
-Secondly, insert the path to the ogv video in video.txt, again, starting from /
+Step 3 : Configure the Configuration file. There is only one config file : config.txt
+Firstly, insert the path to the executable in config.txt, staring from / (root)
+Secondly, add a "|" charachter.
+FInally, insert the path to the ogv video after the "|", again, starting from /
 
 And you're ready to use introvert!
 
@@ -33,7 +34,7 @@ Support for MacOS is unlikely to happen, since I or anyone I know has a personal
 
 ## Possible Questions
 Q : Can't you just get a windows VM to test it and release it more easily?  
-A : I could but I don't wanna contaminate my ssd lol  
+A : I could but I don't wanna contaminate my ssd lol, also the windows build exe is 104 mb and github won't let me upload it without lfs.
   
 Q : There is no video being displayed.  
 A : Check the previous sections, if it still doesnt work, try to recreate the files by going in the filepath mentioned above.  
