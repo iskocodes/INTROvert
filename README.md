@@ -29,12 +29,8 @@ Note that Introvert is currently borderless and maximized.
 
 ## OS Support
 Introvert is currently tested on Ubuntu, but it should work just fine on any linux operating system.  
-Windows support will be implemented later, and the link, when availiable, will be in this repository's README. My current estimate for Windows support is for August/September.  
-Support for MacOS is unlikely to happen, since I or anyone I know has a personal Mac to install my software on.  
+Sadly, I have decided that it is not worth the hassle to port to windows, because this repository is basically a ghost town soo..
 
 ## Possible Questions
-Q : Can't you just get a windows VM to test it and release it more easily?  
-A : I could but I don't wanna contaminate my ssd lol, also the windows build exe is 104 mb and github won't let me upload it without lfs.
-  
 Q : There is no video being displayed.  
 A : Check the previous sections, if it still doesnt work, try to recreate the files by going in the filepath mentioned above.  
