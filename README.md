@@ -29,7 +29,7 @@ Note that Introvert is currently borderless and maximized.
 
 ## OS Support
 Introvert is currently tested on Ubuntu, but it should work just fine on any linux operating system.  
-A windows port should be available in about an hour...
+A windows port is available at [https://github.com/iskocodes/INTROvert-Win](https://github.com/iskocodes/INTROvert-Win)
 
 ## Possible Questions
 Q : There is no video being displayed.  
