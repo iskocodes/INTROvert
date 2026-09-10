@@ -4,8 +4,8 @@ A small program to make intros for other programs
 ## INTROduction
 (get it?)  
 <img src="https://github.com/iskocodes/INTROvert/blob/main/introvert%20gif.gif" alt="demo">  
-Introvert allows you to choose any .ogv file to dispaly before opening ANY executable in your computer.
-As you can probably guess from the files, this is a linux only program, reasons why stated later.
+Introvert allows you to choose any .ogv file to dispaly before opening ANY executable in your computer.  
+<b>If you are here for the windows version, it is available [here](https://github.com/iskocodes/INTROvert-Win). This is the linux version.</b>
 
 ## Setting Introvert up
 Setting Introvert up is really simple!  
